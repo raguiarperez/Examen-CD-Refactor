@@ -9,12 +9,12 @@ import javax.swing.JOptionPane;
 public class LoVivido {
 
     public static void main(String[] args) {
-        String nome;
-        String edad;
+        String nome; //cambio de "n" a nombre
+        String edad; //cambio de "e" a edad
 
-        int meses;
-        int dias;
-        int horas;
+        int meses; //cambio de nombre de "m" a meses dado que se habla de meses
+        int dias; //cambio de nombre de "d" a dias dado que se habla de dias
+        int horas;//cambio de nombre de "h" a horas dado que se habla de horas
         int a;
 
         nome = JOptionPane.showInputDialog("Escriba su nombre: ");
